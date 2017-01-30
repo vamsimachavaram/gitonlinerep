@@ -14,6 +14,7 @@ public class JFR extends JFrame {              // provide extends jframe anfter 
 		f.setDefaultCloseOperation(JFR.EXIT_ON_CLOSE);
 	    f.setGlassPane(null);
 	 //   f.setIcon(new ImageIcon("C:\Users\Machavaram Vamsi\Downloads\images"));
+	    
      	}
 
 }
