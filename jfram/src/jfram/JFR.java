@@ -12,6 +12,7 @@ public class JFR extends JFrame {              // provide extends jframe anfter 
 		f.setVisible(true);
 		f.getContentPane().setBackground(Color.blue);;    //provide extra for getcontentpane
 		f.setDefaultCloseOperation(JFR.EXIT_ON_CLOSE);
+		
 	    f.setGlassPane(null);
 	    
 	 //   f.setIcon(new ImageIcon("C:\Users\Machavaram Vamsi\Downloads\images"));
